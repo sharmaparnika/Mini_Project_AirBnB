@@ -128,4 +128,4 @@ Steps taken in this process :
 The dashboard created helps user easily identify the area and narrow-down to their favourable stay by using interactive user-interface. The dashboard conatins an interactive map and toggles to choose from , like restaurants, museums, parks, clubs and shopping places. You can also find the nearest 10 attractions, with respect to the place selected. It also allows you to choose your property type and narraw down options by inputting average price.
 
 
-# *******************************************************
+---
